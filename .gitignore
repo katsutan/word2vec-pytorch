@@ -1,3 +1,10 @@
+test_*
+*.vec
+ja_*.txt
+*.egg-info
+build/
+dist/
+
 
 __pycache__/*
 
